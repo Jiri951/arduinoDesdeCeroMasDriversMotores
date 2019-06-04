@@ -2,7 +2,7 @@
 
 Material relacionado con el vídeo en el que explico cómo montar un Arduino desde cero y al que posteriormente le añadimos drivers para motores. El objetivo final será sustituir la placa estándar de Arduino más la shield de motores que utilicé en el anterior proyecto de Mini-CNC (https://github.com/fmdavid/miniCNC) por una placa hecha a medida.
 
-En este vídeo los que hacemos es un prototipo, comenzando con la construcción del Arduino, seguido de la incorporación de los dos drivers para los motores de los ejes x e y.
+En este vídeo lo que hacemos es un prototipo, comenzando con la construcción del Arduino, seguido de la incorporación de los dos drivers para los motores de los ejes x e y.
 
 En un próximo vídeo nos encargaremos de pasar el prototipo a la placa definitiva.
 
@@ -10,7 +10,7 @@ En un próximo vídeo nos encargaremos de pasar el prototipo a la placa definiti
 
 En el siguiente enlace puede ver un vídeo explicativo del proyecto:
 
-* [Vídeo](https://youtu.be/Uyisg1a7rLg)
+* [Vídeo](https://youtu.be/Olde0rXomQ0)
 
 ## Contenido
 
